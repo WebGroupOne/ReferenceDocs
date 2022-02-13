@@ -1,22 +1,22 @@
-#Svelte
--https://svelte.dev/docs
-#Node
+# Svelte
+- https://svelte.dev/docs
+# Node
 general documentation: https://nodejs.org/docs/latest-v15.x/api/
 Getting Started Guides: https://nodejs.org/en/docs/guides/
-#Express
+# Express
 https://expressjs.com/
-#Firebase
+# Firebase
 https://firebase.google.com/docs
-#SASS
+# SASS
 https://sass-lang.com/documentation
-#TypeScript
+# TypeScript
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_TypeScript
 
-#General Topics
-##Responsive design
+# General Topics
+## Responsive design
 https://www.freecodecamp.org/news/how-to-start-thinking-responsively/
-##Security
+## Security
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security
-##REST APIs
+## REST APIs
 https://www.codecademy.com/article/what-is-rest
 
